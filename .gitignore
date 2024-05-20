@@ -1,0 +1,12 @@
+coverage
+build
+node_modules
+stats.json
+package-lock.json
+.vscode
+.prettierrc
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
